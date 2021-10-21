@@ -600,12 +600,12 @@ a:hover {
 	box-shadow: 0 0 2px 1px var(--references);
 }
 
-.rm-embed-inner-block-hide:before {
+/*.rm-embed-inner-block-hide:before {
 	content: "Block Embed";
 	color: var(--block-reference-text);
 	padding-left: 8px;
 	font-weight: 500;
-}
+}*/
 
 .rm-embed-inner-block-hide .roam-block-container.rm-not-focused.block-bullet-view {
 	margin-left: 6px;
